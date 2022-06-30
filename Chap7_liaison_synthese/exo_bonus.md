@@ -32,7 +32,7 @@ Sans jointure, quelles sont les deux villes de Seine-et-Marne à avoir le code p
 
 Exercice 8
 
-Quel est le code postal (zip_code) le plus grand de la table lpecom_cities ?
+Quel est le code postal (zip_code) le plus grand de la table cities ?
 
 Exercice 9
 
