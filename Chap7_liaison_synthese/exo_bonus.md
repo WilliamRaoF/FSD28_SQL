@@ -1,4 +1,4 @@
-Partie 1:
+# Partie 1:
 
 En utilisant les tables cities, departments et regions
 
@@ -45,7 +45,7 @@ Point important, il sera sans doute nécessaire d'utiliser AS pour obtenir le r�
 Quelle requête utiliser pour obtenir en résultat, les noms de la région, du département et de chaque ville du département ayant pour code 77 ? 
 
 
-Partie 2:
+# Partie 2:
 
 En utilisant les tables covid et regions
 
@@ -94,7 +94,7 @@ Exercice 11
 Quelle requête utiliser pour afficher les données de vaccination des régions (avec leur nom) qui possèdent une couveture vaccinale supérieure à 15 % pour la première dose et supérieure à 5 % pour la deuxième dose ?
 
 
-Partie 3:
+# Partie 3:
 
 En utilisant les tables covid_vaccin, covid_vaccin_type et departments
 
@@ -149,7 +149,7 @@ Exercice 10
 Quelle requête utiliser pour afficher les départements (avec leur nom) qui possèdent un nombre d'injections deuxième dose avec le vaccin Moderna supérieur à 9000 ou un nombre d'injections première dose avec le vaccin COMIRNATY Pfizer/BioNTech supérieur à 120000 ? Vous aurez besoin de deux jointures.
 
 
-Partie bonus:
+# Partie bonus:
 
 Quelle requête SQL utiliser pour compter, sans doublons, le nombre de professionnels de santé en Seine-et-Marne (77) ?
 
